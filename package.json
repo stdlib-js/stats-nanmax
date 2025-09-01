@@ -42,7 +42,8 @@
     "@stdlib/stats-base-ndarray-dnanmax": "github:stdlib-js/stats-base-ndarray-dnanmax#main",
     "@stdlib/stats-base-ndarray-nanmax": "github:stdlib-js/stats-base-ndarray-nanmax#main",
     "@stdlib/stats-base-ndarray-snanmax": "github:stdlib-js/stats-base-ndarray-snanmax#main",
-    "@stdlib/types": "^0.4.3"
+    "@stdlib/types": "^0.4.3",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/array-filled-by": "^0.2.1",
